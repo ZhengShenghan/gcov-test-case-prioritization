@@ -1,0 +1,17 @@
+< inputs/tst156
+< inputs/newtst27.tst
+< inputs/test20
+inputs/uslin.472
+< inputs/tc206
+< inputs/tc202
+< inputs/test388
+< inputs/uslin.1918
+< inputs/tst161
+inputs/jk17
+inputs/uslin.227
+inputs/uslin.902
+inputs/uslin.1607
+< inputs/test98
+< inputs/test109
+inputs/garbage/nothing
+one doesntliketwo

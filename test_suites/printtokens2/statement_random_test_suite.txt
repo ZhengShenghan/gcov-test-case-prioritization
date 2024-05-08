@@ -1,0 +1,14 @@
+inputs/uslin.1034
+< inputs/test95
+< inputs/uslin.1649
+< inputs/newtst193.tst
+< inputs/newtst44.tst
+< inputs/tc20
+inputs/uslin.1583
+< inputs/uslin.1789
+inputs/uslin.745
+< inputs/uslin.933
+< inputs/uslin.769
+< inputs/test56
+one doesntliketwo
+inputs/garbage/nothing

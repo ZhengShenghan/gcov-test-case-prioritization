@@ -1,0 +1,9 @@
+*.gcda
+*.gcno
+replace
+printtoken
+printtoken2
+schedule
+schedule2
+tcas
+totinfo
